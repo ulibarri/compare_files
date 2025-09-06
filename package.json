@@ -1,0 +1,24 @@
+{
+  "name": "compare_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulibarri/compare_files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulibarri/compare_files/issues"
+  },
+  "homepage": "https://github.com/ulibarri/compare_files#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "fast-csv": "^5.0.5"
+  }
+}
