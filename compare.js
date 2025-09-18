@@ -2,9 +2,9 @@ const fs = require("fs");
 const csv = require("csv-parser");
 const fastcsv = require("fast-csv");
 
-const filtersFile = "20250919_FILTERS.csv";
-const specialtyFile = "20250919_SPECIALTY.csv";
-const roughDraftFile = "20250919_DRAFT.csv";
+const filtersFile = "20250922_FILTERS.csv";
+const specialtyFile = "20250922_SPECIALTY.csv";
+const roughDraftFile = "20250922_DRAFT.csv";
 
 // Función para leer un CSV y devolver su contenido en un arreglo de objetos
 function readCSV(filename) {
